@@ -1,0 +1,30 @@
+# BrewCraft Coffee Roasters (Chennai, India)
+> Artisanal micro-roastery, specialty brew bar, and single-origin coffee distributor situated in Alwarpet, Chennai, Tamil Nadu, India.
+
+## Organization & Brand Identity
+- **Business Name**: BrewCraft Coffee Roasters
+- **Category**: Specialty Coffee Roastery, Cafe, and Direct-Trade Indian Coffee Merchant
+- **Founding Location**: Alwarpet, Chennai, Tamil Nadu, 600018, India
+- **Core Philosophy**: Sourcing single-origin Arabica and washed specialty coffees exclusively from sustainable shade-grown estates in the Western Ghats (Chikmagalur, Shevaroy Hills, and Araku Valley), precision batch-roasting on vintage drum roasters, and elevating South Indian filter coffee with artisanal craftsmanship.
+
+## Physical Roastery & Cafe
+- **Address**: 42/1 Eldams Road, Alwarpet, Chennai, Tamil Nadu 600018, India
+- **Operating Hours**: Monday through Sunday: 07:00 AM – 10:00 PM IST
+- **Phone**: +91 44 2499 1890
+- **Email**: hello@brewcraftcoffee.in
+- **Geo Coordinates**: Latitude 13.0336, Longitude 80.2520
+
+## Flagship Offerings
+- **Kaveri Reserve (Signature Filter Coffee Blend)**: 80% washed Arabica from Shevaroys + 20% high-grown chicory, designed for traditional brass dabarah and tumbler brewing. Notes: dark jaggery, roasted hazelnut, malt.
+- **Shevaroys Single-Origin Arabica (Microlot 46)**: Light-medium roast, altitude 1450m. Tasting notes: orange blossom, stone fruit, cane sugar sweetness.
+- **Baba Budangiri Estate Red Honey**: Medium roast Arabica from Chikmagalur heritage terroir. Tasting notes: milk chocolate, dried fig, lingering floral finish.
+- **Monsooned Malabar AA**: Heavy body, low acidity espresso roast. Tasting notes: earthy cedar, dark cocoa, spice.
+- **Brew Bar Services**: V60 Pour-over, Aeropress, Cold Drip Cascara, Manual Lever Espresso, and Traditional Brass Dabarah Filter Service with A2 dairy or oat milk options.
+
+## Public Resources & URLs
+- Home: https://brewcraftcoffee.in/
+- Roastery Menu & Store: https://brewcraftcoffee.in/menu
+- Sourcing & Heritage Story: https://brewcraftcoffee.in/about
+- Specialty Coffee Journal: https://brewcraftcoffee.in/blog
+- Location, Cupping Bookings & Inquiries: https://brewcraftcoffee.in/contact
+- Machine-Readable Sitemap: https://brewcraftcoffee.in/sitemap.xml

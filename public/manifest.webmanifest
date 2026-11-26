@@ -1,0 +1,16 @@
+{
+  "name": "BrewCraft Coffee Roasters",
+  "short_name": "BrewCraft",
+  "description": "Specialty coffee roasters and cafe in Chennai, India. Micro-roasted single-origin coffees and South Indian filter brewing.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fefdfa",
+  "theme_color": "#451a03",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "BrewCraft Coffee Roasters",
+  "description": "Artisanal specialty coffee roasters based in Chennai, India. Showcasing single-origin South Indian beans, filter brewing mastery, and technical React SEO best practices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

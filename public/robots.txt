@@ -1,0 +1,14 @@
+# Robots.txt for BrewCraft Coffee (Coimbatore, India)
+# Directives controlling search crawler access to website resources
+# Learn more: https://developers.google.com/search/docs/crawling-indexing/robots/robots_txt
+
+User-agent: *
+# Allow search engines to index public customer-facing routes
+Allow: /
+
+# Prevent search engines from indexing administrative or internal control panels
+Disallow: /admin
+Disallow: /api/
+
+# Locate the XML sitemap for automated search bot discovery
+Sitemap: https://brewcraftcoffee.in/sitemap.xml
